@@ -1,6 +1,52 @@
+/* postion */
+.pos-s {
+	position: static;
+}
+.pos-r {
+	position: relative;
+}
+.pos-a {
+	position: absolute;
+}
+.pos-f {
+	position: fixed;
+}
+/* direction */
+.l0 {
+	left: 0;
+}
+.r0 {
+	right: 0;
+}
+.t0 {
+	top: 0;
+}
+.b0 {
+	bottom: 0;
+}
+/* float */
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+/* width */
 .w100% {
   width: 100%
 }
+/* height */
+.h100% {
+	height: 100%;
+}
+/* padding */
+/* margin */
+/* font */
+/* text */
 .tac {
   text-align: center;
 }
+.ti2em {
+	text-indent: 2em;
+}
+
