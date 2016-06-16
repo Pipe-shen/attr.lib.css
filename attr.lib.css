@@ -40,8 +40,45 @@
 	height: 100%;
 }
 /* padding */
+.pl15 {
+	padding-left: 15px;
+}
+.pr15 {
+	padding-right: 15px;
+}
+.pt15 {
+	padding-top: 15px;
+}
+.pb15 {
+	padding-bottom: 15px;
+}
 /* margin */
+.ml15 {
+	margin-left: 15px;
+}
+.mr15 {
+	margin-right: 15px;
+}
+.mt15 {
+	margin-top: 15px;
+}
+.mb15 {
+	margin-bottom: 15px;
+}
+/* border */
 /* font */
+.cfff {
+	color: #fff;
+}
+.c000 {
+	color: #000;
+}
+.c333 {
+	color: #333;
+}
+.c666 {
+	color: #666;
+}
 /* text */
 .tac {
   text-align: center;
