@@ -66,6 +66,18 @@
 	margin-bottom: 15px;
 }
 /* border */
+.bdl {
+	border-left: 1px solid #666;
+}
+.bdr {
+	border-right: 1px solid #666;
+}
+.bdt {
+	border-top: 1px solid #666;
+}
+.bdb {
+	border-bottom: 1px solid #666;
+}
 /* font */
 .cfff {
 	color: #fff;
@@ -78,6 +90,9 @@
 }
 .c666 {
 	color: #666;
+}
+.lh {
+	line-height: 1.5;
 }
 /* text */
 .tac {
